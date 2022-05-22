@@ -5,7 +5,11 @@ and it allows the user to send messages anonymously to other users , the receive
 
 # the user can : 
 -Undo the last sent message, and add messages to his favourites which can be shown.
+
 -The user must add a contact to be able to send messages to them.
--See all the messages he has sent from latest to oldest
--Remove the oldest message from favourite
--View all favourite messages
+
+-See all the messages he has sent from latest to oldest.
+
+-Remove the oldest message from favourite.
+
+-View all favourite messages.
